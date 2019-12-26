@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46745da-6bc0-48b3-ad6d-b27660a17788" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sources/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/gate/HunterGate.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/tools/gate/HunterGate.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +91,7 @@
       <workItem from="1577310792772" duration="879000" />
       <workItem from="1577311943837" duration="2403000" />
       <workItem from="1577390730619" duration="2328000" />
+      <workItem from="1577403472366" duration="218000" />
     </task>
     <servers />
   </component>
